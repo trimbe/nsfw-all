@@ -1,7 +1,7 @@
 {
     "name": "NSFW All",
     "description": "Adds NSFW posts to the /r/all feed on reddit",
-    "version": "1.0",
+    "version": "1.1",
     "manifest_version": 3,
     "content_scripts": [
         {
